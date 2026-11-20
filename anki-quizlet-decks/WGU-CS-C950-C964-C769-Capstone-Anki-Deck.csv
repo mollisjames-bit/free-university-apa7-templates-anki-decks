@@ -1,0 +1,5 @@
+Front,Back
+WGU C950 Hash Table Rule: Can you use Python's built-in dict for the main package table?,NO. You must implement a custom self-adjusting hash table (e.g. chaining bucket list) with O(1) average lookup. Guide: https://signalacademic.com/courses/wgu-c950-data-structures-algorithms-ii-python-routing
+WGU C950 Package #9 Timing Rule: When can Package #9's address be updated and delivered?,NOT before 10:20 AM (corrected to 410 S State St). Total mileage across all trucks must stay under 140 miles.
+WGU C964 CS Capstone Trap: Will a descriptive dashboard alone pass?,"NO. You must include a predictive Machine Learning model with validation accuracy metrics, 3 distinct visualizations, and an interactive user query widget. Guide: https://signalacademic.com/courses/wgu-c964-computer-science-capstone-machine-learning"
+WGU C769 IT Capstone Verb Tense Rule: What tense is required for Task 2 vs. Task 3?,Task 2 (Proposal) = 100% FUTURE TENSE ('will deploy'). Task 3 (Post-Implementation) = 100% PAST TENSE ('was deployed'). Guide: https://signalacademic.com/courses/wgu-c769-it-capstone-technical-proposal-post-implementation

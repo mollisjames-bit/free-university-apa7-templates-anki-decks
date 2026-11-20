@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Signal Academic: 1-Click Rubric, APA 7th & 5-Year Reference Checker",
+  "version": "1.0.0",
+  "description": "Highlight any WGU, Capella, Chamberlain, Walden, or SNHU rubric or reference list in Canvas/Brightspace to decode headings and check 5-year APA 7th compliance.",
+  "permissions": [
+    "contextMenus",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Signal Academic Free Student Tools"
+  },
+  "homepage_url": "https://signalacademic.com/tools"
+}
